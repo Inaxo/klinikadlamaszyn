@@ -23,12 +23,16 @@
         font-size: 14px;
 
     }
-  
+    body{
+        background-color: #F3F4F6 !important;
+    }
   </style>
 
 <body>
     <x-navbar></x-navbar>
     <x-hero></x-hero>
     <x-cards></x-cards>
+    <x-about></x-about>
+    
 </body>
 </html>
