@@ -155,7 +155,7 @@
             </div>
             <div class="w-full px-4 sm:w-1/2 lg:w-3/12">
                 <div class="mb-10 w-full">
-                    <h4 class="text-dark mb-9 text-lg font-semibold">Follow Us On</h4>
+                    <h4 class="text-dark mb-9 text-lg font-semibold">Nasze social media</h4>
                     <div class="mb-6 flex items-center">
                         <a
                             href="javascript:void(0)"
@@ -218,7 +218,7 @@
                             </svg>
                         </a>
                     </div>
-                    <p class="text-body-color text-base">&copy; 2025 TailGrids</p>
+                    <p class="text-body-color text-base">&copy; 2023 Klinikadlamaszyn.pl</br> Created with ❤️ by Oliwier Głowala</p>
                 </div>
             </div>
         </div>
