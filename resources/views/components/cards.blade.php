@@ -1,5 +1,5 @@
 <!-- ====== Cards Section Start -->
-<section class="bg-[#F3F4F6] pt-5 pb-2.5 lg:pt-[30px] lg:pb-5"> 
+<section class="bg-[#F3F4F6] pt-5 lg:pt-[30px]">
 
 
 
