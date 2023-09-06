@@ -25,7 +25,7 @@
                         class="absolute right-0 top-full  py-5 px-6 z-50 shadow rounded-lg w-full  dark:text-black-300 lg:px-0 lg:max-w-full lg:w-full lg:right-4 lg:block lg:static lg:shadow-none">
                         <ul class="block lg:flex lg:items-center">
                             <li>
-                                <a href="#about" class="nav-link text-xs font-medium text-dark py-2 flex hover:text-primary dark:text-gray-200 lg:inline-flex lg:ml-6 xl:ml-12">
+                                <a href="{{route('home')}}" class="nav-link text-xs font-medium text-dark py-2 flex hover:text-primary dark:text-gray-200 lg:inline-flex lg:ml-6 xl:ml-12">
                                     Strona główna
                                 </a>
                             </li>
@@ -40,17 +40,17 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="#contact" class="nav-link text-xs font-medium text-dark py-2 flex hover:text-primary dark:text-gray-200 lg:inline-flex lg:ml-6 xl:ml-12">
+                                <a href="{{route('contact')}}" class="nav-link text-xs font-medium text-dark py-2 flex hover:text-primary dark:text-gray-200 lg:inline-flex lg:ml-6 xl:ml-12">
                                     Kontakt
                                 </a>
                             </li>
                             <li>
-                                <a href="#contact" class="nav-link text-xs font-medium text-dark py-2 flex hover:text-primary dark:text-gray-200 lg:inline-flex lg:ml-6 xl:ml-12">
+                                <a href="{{route('privacy')}}" class="nav-link text-xs font-medium text-dark py-2 flex hover:text-primary dark:text-gray-200 lg:inline-flex lg:ml-6 xl:ml-12">
                                     Prywatność
                                 </a>
                             </li>
                             <li>
-                                <a href="#contact" class="nav-link text-xs font-medium text-dark py-2 flex hover:text-primary dark:text-gray-200 lg:inline-flex lg:ml-6 xl:ml-12">
+                                <a href="{{route('about')}}" class="nav-link text-xs font-medium text-dark py-2 flex hover:text-primary dark:text-gray-200 lg:inline-flex lg:ml-6 xl:ml-12">
                                     O nas
                                 </a>
                             </li>

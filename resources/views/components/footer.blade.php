@@ -38,14 +38,14 @@
             </div>
             <div class="w-full px-4 sm:w-1/2 lg:w-2/12">
                 <div class="mb-10 w-full">
-                    <h4 class="text-dark mb-9 text-lg font-semibold">Resources</h4>
+                    <h4 class="text-dark mb-9 text-lg font-semibold">Strony</h4>
                     <ul>
                         <li>
                             <a
                                 href="javascript:void(0)"
                                 class="text-body-color hover:text-primary mb-2 inline-block text-base leading-loose"
                             >
-                                SaaS Development
+                                Strona główna
                             </a>
                         </li>
                         <li>
@@ -53,7 +53,7 @@
                                 href="javascript:void(0)"
                                 class="text-body-color hover:text-primary mb-2 inline-block text-base leading-loose"
                             >
-                                Our Products
+                               Zgłoszenie naprawy
                             </a>
                         </li>
                         <li>
@@ -61,7 +61,7 @@
                                 href="javascript:void(0)"
                                 class="text-body-color hover:text-primary mb-2 inline-block text-base leading-loose"
                             >
-                                User Flow
+                                Galeria
                             </a>
                         </li>
                         <li>
@@ -69,22 +69,22 @@
                                 href="javascript:void(0)"
                                 class="text-body-color hover:text-primary mb-2 inline-block text-base leading-loose"
                             >
-                                User Strategy
+                                O nas
                             </a>
                         </li>
                     </ul>
                 </div>
             </div>
-            <div class="w-full px-4 sm:w-1/2 lg:w-2/12">
+            <div class="w-full px-4 sm:w-1/2 lg:w-4/12">
                 <div class="mb-10 w-full">
-                    <h4 class="text-dark mb-9 text-lg font-semibold">Company</h4>
+                    <h4 class="text-dark mb-9 text-lg font-semibold">Informacje</h4>
                     <ul>
                         <li>
                             <a
                                 href="javascript:void(0)"
                                 class="text-body-color hover:text-primary mb-2 inline-block text-base leading-loose"
                             >
-                                About TailGrids
+                                Adres e-mail: biuro@klinikadlamaszyn.pl
                             </a>
                         </li>
                         <li>
@@ -92,7 +92,7 @@
                                 href="javascript:void(0)"
                                 class="text-body-color hover:text-primary mb-2 inline-block text-base leading-loose"
                             >
-                                Contact & Support
+                                Nr-tel: +48 691 646 362
                             </a>
                         </li>
                         <li>
@@ -100,7 +100,7 @@
                                 href="javascript:void(0)"
                                 class="text-body-color hover:text-primary mb-2 inline-block text-base leading-loose"
                             >
-                                Success History
+                                Adres: Katowice Wojciecha 1
                             </a>
                         </li>
                         <li>
@@ -108,51 +108,13 @@
                                 href="javascript:void(0)"
                                 class="text-body-color hover:text-primary mb-2 inline-block text-base leading-loose"
                             >
-                                Setting & Privacy
+                                Godziny otwarcia: Pon-Pt: 8.00-15.00 Sob: 8.00-13.00
                             </a>
                         </li>
                     </ul>
                 </div>
             </div>
-            <div class="w-full px-4 sm:w-1/2 lg:w-2/12">
-                <div class="mb-10 w-full">
-                    <h4 class="text-dark mb-9 text-lg font-semibold">Quick Links</h4>
-                    <ul>
-                        <li>
-                            <a
-                                href="javascript:void(0)"
-                                class="text-body-color hover:text-primary mb-2 inline-block text-base leading-loose"
-                            >
-                                Premium Support
-                            </a>
-                        </li>
-                        <li>
-                            <a
-                                href="javascript:void(0)"
-                                class="text-body-color hover:text-primary mb-2 inline-block text-base leading-loose"
-                            >
-                                Our Services
-                            </a>
-                        </li>
-                        <li>
-                            <a
-                                href="javascript:void(0)"
-                                class="text-body-color hover:text-primary mb-2 inline-block text-base leading-loose"
-                            >
-                                Know Our Team
-                            </a>
-                        </li>
-                        <li>
-                            <a
-                                href="javascript:void(0)"
-                                class="text-body-color hover:text-primary mb-2 inline-block text-base leading-loose"
-                            >
-                                Download App
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
+
             <div class="w-full px-4 sm:w-1/2 lg:w-3/12">
                 <div class="mb-10 w-full">
                     <h4 class="text-dark mb-9 text-lg font-semibold">Nasze social media</h4>

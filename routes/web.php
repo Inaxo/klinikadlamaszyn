@@ -16,4 +16,13 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function(){
     return view('home');
-});
+})->name('home');
+Route::get('/polityka-prywatnosci', function(){
+    return view('privacy');
+})->name('privacy');
+Route::get('o-nas', function(){
+    return view('about');
+})->name('about');
+Route::get('/kontakt', function(){
+    return view('contact');
+})->name('contact');
